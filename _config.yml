@@ -1,0 +1,58 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: ZK
+brief-intro: 目标放松循环张开
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://zkbingfeng.github.io" # the base hostname & protocol for your site
+
+permalink: /:year/:month/:day/:title/
+
+# other links
+github_username:  zkbingfeng
+email: 1578055434@qq.com
+weibo_username: 5977328095
+zhihu_username: zhu-kun-26-31
+
+description_footer: 目标，放松，循环，张开！
+
+# comments
+# two ways to comment, only choose one, and use your own short name
+# 两种评论插件，选一个就好了，使用自己的 short_name
+#gitment
+comment_gitment_repo: zkbingfeng.github.io
+comment_gitment_clientId: 8f166e6594d3fd0b7d5b
+comment_gitment_clientSecret: b1aba7b89605c6853af2c7d084c2ac009d7e6864
+
+
+# statistic analysis 统计代码
+# 百度统计 id，将统计代码替换为自己的百度统计id，即
+# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
+# xxxxx字符串
+baidu_tongji_id: 27fe4bb11af2a52e1319df3ea9448e0d
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# port
+# port: 1234
+
+# url
+category_dir: category/
+tag_dir: tag/
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+gems: [jekyll-paginate]
+paginate: 6
