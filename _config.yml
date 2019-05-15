@@ -7,7 +7,7 @@
 
 # Site settings
 title: ZK
-brief-intro: 目标放松循环张开
+brief-intro: 重复重复再重复
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://zkbingfeng.github.io" # the base hostname & protocol for your site
 
@@ -19,7 +19,7 @@ email: 1578055434@qq.com
 weibo_username: 5977328095
 zhihu_username: zhu-kun-26-31
 
-description_footer: 目标，放松，循环，张开！
+description_footer: 思维上大事拆解成小事，行为上小事积累成大事
 
 # comments
 # two ways to comment, only choose one, and use your own short name
