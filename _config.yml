@@ -24,10 +24,12 @@ description_footer: 思维上大事拆解成小事，行为上小事积累成大
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-#gitment
-comment_gitment_repo: zkbingfeng.github.io
-comment_gitment_clientId: 8f166e6594d3fd0b7d5b
-comment_gitment_clientSecret: b1aba7b89605c6853af2c7d084c2ac009d7e6864
+#valine
+valine_blog:
+    enable: true
+    leancloud_appid: awtVXJ7ms5NF43H8utKfVabg-gzGzoHsz
+    leancloud_appkey: krdXbS80oTcFpGV8vMY5saQB
+    placeholder: "your comment"
 
 
 # statistic analysis 统计代码
