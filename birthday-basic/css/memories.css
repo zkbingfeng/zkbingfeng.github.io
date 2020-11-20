@@ -856,7 +856,7 @@
 
 .ly-txt22 {
 	font-family: Microsoft YaHei;
-	font-size: 13px;
+	font-size: 24px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -939,7 +939,7 @@
 .ly-txt24 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 24px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1040,7 +1040,7 @@
 .ly-txt26 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 24px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1335,7 +1335,7 @@
 .ly-txt51 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 24px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
